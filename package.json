@@ -1,0 +1,19 @@
+{
+    "name": "tie-init",
+    "version": "1.0.10",
+    "description": "我的脚手架",
+    "bin": {
+        "macaw": "./bin/macaw.js"
+    },
+    "dependencies": {
+        "commander": "^5.0.0",
+        "download-git-repo": "^3.0.2",
+        "handlebars": "^4.7.6",
+        "inquirer": "^7.1.0",
+        "latest-version": "^5.1.0",
+        "metalsmith": "^2.3.0"
+    },
+    "devDependencies": {
+        "glob": "^7.1.6"
+    }
+}
